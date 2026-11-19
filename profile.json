@@ -2,7 +2,8 @@
   "jmeno": "Petr Novak",
   "vek": 18,
   "je_plnolety": true,
-  "poznamka": null,
+  "poznamka": "Rad sportuji a programovani",
+  "oblibene_cislo": 7,
   "adresa": {
     "ulice": "Hlavni 25",
     "mesto": "Ostrava",
