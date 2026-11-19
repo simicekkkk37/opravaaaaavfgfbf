@@ -1,0 +1,16 @@
+{
+  "jmeno": "Petr Novak",
+  "vek": 18,
+  "je_plnolety": true,
+  "poznamka": null,
+  "adresa": {
+    "ulice": "Hlavni 25",
+    "mesto": "Ostrava",
+    "psc": "70200"
+  },
+  "konicky": [
+    "programovani",
+    "sport",
+    "pocitacove hry"
+  ]
+}
